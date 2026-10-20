@@ -1,0 +1,66 @@
+{
+  "validUser": {
+    "email": "test@playlab.com",
+    "password": "Password123"
+  },
+  "registration": {
+    "name": "Test User",
+    "mail": "newuser@example.com",
+    "pass": "Test@123",
+    "phone1": "9811455610",
+    "dob": "1989-06-30",
+      "country": "India",
+      "gender": "Male",
+    "javascript": true,
+    "agreeToTerms": true,
+     "bio": "Playwright automation test user"
+  },
+      
+ "shopping": {
+    "productName": "Seiko Presage Cocktail Time",
+    "coupon": "FIRST500"
+  },
+  "validCheckout": {
+    "fullName": "Test User",
+    "address": "123 Test Street",
+    "city": "Jaipur",
+    "postalCode": "302001",
+    "phone": "9876543210",
+    "paymentMethod": "Cash on Delivery"
+  },
+
+  "autosuggest": {
+    "type": "j",
+    "option": "JavaScript"
+  },
+
+  "multi":{
+    "opt1":"Angular",
+    "opt2":"Next.js"
+  },
+
+
+  "color": "#64f2c2",
+  
+  "path": { 
+  "filepath": "C:/Users/junyj/OneDrive/Pictures/Picture1.png"
+},
+  "date": {
+    "dd": "30",
+    "mm": "June",
+    "year": "2026",
+    "typable":"07-06-2020"
+  },
+  
+  "sliders": {
+    "volume": "70",
+    "price": "800"
+  
+},
+
+  "alerts": {
+    "modalMessage": "Hello modal",
+    "promptMessage": "Juny"
+  }
+
+}
